@@ -1,4 +1,4 @@
-no# FacebookChecker
+best FacebookChecker
 
 FacebookChecker checks if an {id, username, phonenumber, email} is associated with a facebook account and get some information about the account.
 
